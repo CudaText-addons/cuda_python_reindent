@@ -1,0 +1,12 @@
+[info]
+title=Python ReIndent
+desc=Changes Python file to use 4-space indents and no hard tab characters
+type=cudatext-plugin
+subdir=cuda_python_reindent
+homepage=https://github.com/cudatext-addons/cuda_python_reindent
+
+[item2]
+section=commands
+caption=Python ReIndent
+method=reindent
+lexers=Python
